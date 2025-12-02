@@ -1,1 +1,2 @@
-# .github
+# SKELETON AI
+coming 2030
